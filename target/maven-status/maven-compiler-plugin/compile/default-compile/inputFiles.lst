@@ -1,0 +1,17 @@
+/home/alexandruurs/Desktop/dimitri/KeycloakRemoteUserStorageProvider/src/main/java/com/appsdeveloperblog/keycloak/Bootstrapper.java
+/home/alexandruurs/Desktop/dimitri/KeycloakRemoteUserStorageProvider/src/main/java/com/appsdeveloperblog/keycloak/RemoteUserStorageProvider.java
+/home/alexandruurs/Desktop/dimitri/KeycloakRemoteUserStorageProvider/src/main/java/com/appsdeveloperblog/keycloak/user/service/UserService.java
+/home/alexandruurs/Desktop/dimitri/KeycloakRemoteUserStorageProvider/src/main/java/com/appsdeveloperblog/keycloak/user/service/UserPojo.java
+/home/alexandruurs/Desktop/dimitri/KeycloakRemoteUserStorageProvider/src/main/java/com/appsdeveloperblog/keycloak/user/controller/UserController.java
+/home/alexandruurs/Desktop/dimitri/KeycloakRemoteUserStorageProvider/src/main/java/com/appsdeveloperblog/keycloak/user/service/UserApiService.java
+/home/alexandruurs/Desktop/dimitri/KeycloakRemoteUserStorageProvider/src/main/java/com/appsdeveloperblog/keycloak/user/mapper/UserMapper.java
+/home/alexandruurs/Desktop/dimitri/KeycloakRemoteUserStorageProvider/src/main/java/com/appsdeveloperblog/keycloak/security/PasswordConfig.java
+/home/alexandruurs/Desktop/dimitri/KeycloakRemoteUserStorageProvider/src/main/java/com/appsdeveloperblog/keycloak/RemoteUserStorageProviderFactory.java
+/home/alexandruurs/Desktop/dimitri/KeycloakRemoteUserStorageProvider/src/main/java/com/appsdeveloperblog/keycloak/user/controller/dto/PasswordMatchRequestDto.java
+/home/alexandruurs/Desktop/dimitri/KeycloakRemoteUserStorageProvider/src/main/java/com/appsdeveloperblog/keycloak/user/service/UserCache.java
+/home/alexandruurs/Desktop/dimitri/KeycloakRemoteUserStorageProvider/src/main/java/com/appsdeveloperblog/keycloak/user/controller/dto/VerifyPasswordResponse.java
+/home/alexandruurs/Desktop/dimitri/KeycloakRemoteUserStorageProvider/src/main/java/com/appsdeveloperblog/keycloak/user/controller/dto/UserDto.java
+/home/alexandruurs/Desktop/dimitri/KeycloakRemoteUserStorageProvider/src/main/java/com/appsdeveloperblog/keycloak/user/repository/UserRepository.java
+/home/alexandruurs/Desktop/dimitri/KeycloakRemoteUserStorageProvider/src/main/java/com/appsdeveloperblog/keycloak/security/WebSecurityConfig.java
+/home/alexandruurs/Desktop/dimitri/KeycloakRemoteUserStorageProvider/src/main/java/com/appsdeveloperblog/keycloak/user/model/User.java
+/home/alexandruurs/Desktop/dimitri/KeycloakRemoteUserStorageProvider/src/main/java/com/appsdeveloperblog/keycloak/MyRemoteUserStorageProviderApplication.java
